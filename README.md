@@ -33,4 +33,6 @@ Meu foco atualmente está em Machine Learning e Deep Learning
   </div>
   
   
+  ![Snake animation](https://github.com/leonardojpereira/leonardojpereira/blob/output/github-contribution-grid-snake.svg)
+  
 
